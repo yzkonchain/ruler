@@ -1,13 +1,13 @@
 {
   "files": {
-    "static/js/0.6bd69b3c.chunk.js": "./static/js/0.6bd69b3c.chunk.js",
-    "static/js/1.104fe02e.chunk.js": "./static/js/1.104fe02e.chunk.js",
+    "static/js/0.1ee5c640.chunk.js": "./static/js/0.1ee5c640.chunk.js",
+    "static/js/1.7a340fe1.chunk.js": "./static/js/1.7a340fe1.chunk.js",
     "main.css": "./static/css/main.3982dde6.chunk.css",
-    "main.js": "./static/js/main.f2bedd81.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.581d7421.js",
-    "static/js/4.8428816f.chunk.js": "./static/js/4.8428816f.chunk.js",
+    "main.js": "./static/js/main.a8549302.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.81e3d996.js",
+    "static/js/4.37e5eeb5.chunk.js": "./static/js/4.37e5eeb5.chunk.js",
     "index.html": "./index.html",
-    "static/js/4.8428816f.chunk.js.LICENSE.txt": "./static/js/4.8428816f.chunk.js.LICENSE.txt",
+    "static/js/4.37e5eeb5.chunk.js.LICENSE.txt": "./static/js/4.37e5eeb5.chunk.js.LICENSE.txt",
     "static/media/index.css": "./static/media/helvetica.0796970a.ttf",
     "static/media/CALL.fa5dcf83.svg": "./static/media/CALL.fa5dcf83.svg",
     "static/media/COLL.18017a76.svg": "./static/media/COLL.18017a76.svg",
@@ -32,9 +32,9 @@
     "static/media/termIcon.a6bf4fd7.svg": "./static/media/termIcon.a6bf4fd7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.581d7421.js",
-    "static/js/4.8428816f.chunk.js",
+    "static/js/runtime-main.81e3d996.js",
+    "static/js/4.37e5eeb5.chunk.js",
     "static/css/main.3982dde6.chunk.css",
-    "static/js/main.f2bedd81.chunk.js"
+    "static/js/main.a8549302.chunk.js"
   ]
 }
