@@ -1,17 +1,17 @@
 {
   "files": {
-    "static/js/0.67c9f830.chunk.js": "./static/js/0.67c9f830.chunk.js",
-    "static/js/1.c9f716a1.chunk.js": "./static/js/1.c9f716a1.chunk.js",
+    "static/js/0.9a430132.chunk.js": "./static/js/0.9a430132.chunk.js",
+    "static/js/1.8040339e.chunk.js": "./static/js/1.8040339e.chunk.js",
     "main.css": "./static/css/main.3982dde6.chunk.css",
-    "main.js": "./static/js/main.ec9526b1.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.a5be1f08.js",
-    "static/js/4.bdd8e394.chunk.js": "./static/js/4.bdd8e394.chunk.js",
+    "main.js": "./static/js/main.1584b4d6.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.1814ffdd.js",
+    "static/js/4.8428816f.chunk.js": "./static/js/4.8428816f.chunk.js",
     "index.html": "./index.html",
-    "static/js/4.bdd8e394.chunk.js.LICENSE.txt": "./static/js/4.bdd8e394.chunk.js.LICENSE.txt",
+    "static/js/4.8428816f.chunk.js.LICENSE.txt": "./static/js/4.8428816f.chunk.js.LICENSE.txt",
     "static/media/index.css": "./static/media/helvetica.0796970a.ttf",
     "static/media/CALL.fa5dcf83.svg": "./static/media/CALL.fa5dcf83.svg",
     "static/media/COLL.18017a76.svg": "./static/media/COLL.18017a76.svg",
-    "static/media/COLLAR.30ae9c59.svg": "./static/media/COLLAR.30ae9c59.svg",
+    "static/media/COLLAR.91099a06.svg": "./static/media/COLLAR.91099a06.svg",
     "static/media/USDC.d3666452.svg": "./static/media/USDC.d3666452.svg",
     "static/media/USDT.a12a2441.svg": "./static/media/USDT.a12a2441.svg",
     "static/media/balanceMax.44d36048.svg": "./static/media/balanceMax.44d36048.svg",
@@ -32,9 +32,9 @@
     "static/media/termIcon.a6bf4fd7.svg": "./static/media/termIcon.a6bf4fd7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5be1f08.js",
-    "static/js/4.bdd8e394.chunk.js",
+    "static/js/runtime-main.1814ffdd.js",
+    "static/js/4.8428816f.chunk.js",
     "static/css/main.3982dde6.chunk.css",
-    "static/js/main.ec9526b1.chunk.js"
+    "static/js/main.1584b4d6.chunk.js"
   ]
 }
