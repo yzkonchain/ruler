@@ -1,10 +1,10 @@
 {
   "files": {
-    "static/js/0.1ee5c640.chunk.js": "./static/js/0.1ee5c640.chunk.js",
-    "static/js/1.7a340fe1.chunk.js": "./static/js/1.7a340fe1.chunk.js",
+    "static/js/0.1acf3117.chunk.js": "./static/js/0.1acf3117.chunk.js",
+    "static/js/1.1146ad8f.chunk.js": "./static/js/1.1146ad8f.chunk.js",
     "main.css": "./static/css/main.3982dde6.chunk.css",
-    "main.js": "./static/js/main.ef5becc5.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.81e3d996.js",
+    "main.js": "./static/js/main.a373a13e.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.5b082fb7.js",
     "static/js/4.37e5eeb5.chunk.js": "./static/js/4.37e5eeb5.chunk.js",
     "index.html": "./index.html",
     "static/js/4.37e5eeb5.chunk.js.LICENSE.txt": "./static/js/4.37e5eeb5.chunk.js.LICENSE.txt",
@@ -12,6 +12,7 @@
     "static/media/CALL.fa5dcf83.svg": "./static/media/CALL.fa5dcf83.svg",
     "static/media/COLL.18017a76.svg": "./static/media/COLL.18017a76.svg",
     "static/media/COLLAR.91099a06.svg": "./static/media/COLLAR.91099a06.svg",
+    "static/media/RULER.313c8f85.png": "./static/media/RULER.313c8f85.png",
     "static/media/USDC.d3666452.svg": "./static/media/USDC.d3666452.svg",
     "static/media/USDT.a12a2441.svg": "./static/media/USDT.a12a2441.svg",
     "static/media/balanceMax.44d36048.svg": "./static/media/balanceMax.44d36048.svg",
@@ -32,9 +33,9 @@
     "static/media/termIcon.a6bf4fd7.svg": "./static/media/termIcon.a6bf4fd7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.81e3d996.js",
+    "static/js/runtime-main.5b082fb7.js",
     "static/js/4.37e5eeb5.chunk.js",
     "static/css/main.3982dde6.chunk.css",
-    "static/js/main.ef5becc5.chunk.js"
+    "static/js/main.a373a13e.chunk.js"
   ]
 }
