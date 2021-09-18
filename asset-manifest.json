@@ -1,13 +1,13 @@
 {
   "files": {
-    "static/js/0.1acf3117.chunk.js": "./static/js/0.1acf3117.chunk.js",
-    "static/js/1.1146ad8f.chunk.js": "./static/js/1.1146ad8f.chunk.js",
+    "static/js/0.40474c07.chunk.js": "./static/js/0.40474c07.chunk.js",
+    "static/js/1.57d544ec.chunk.js": "./static/js/1.57d544ec.chunk.js",
     "main.css": "./static/css/main.3982dde6.chunk.css",
-    "main.js": "./static/js/main.a373a13e.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.5b082fb7.js",
-    "static/js/4.37e5eeb5.chunk.js": "./static/js/4.37e5eeb5.chunk.js",
+    "main.js": "./static/js/main.357d8928.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.bb37488a.js",
+    "static/js/4.b9d6eebd.chunk.js": "./static/js/4.b9d6eebd.chunk.js",
     "index.html": "./index.html",
-    "static/js/4.37e5eeb5.chunk.js.LICENSE.txt": "./static/js/4.37e5eeb5.chunk.js.LICENSE.txt",
+    "static/js/4.b9d6eebd.chunk.js.LICENSE.txt": "./static/js/4.b9d6eebd.chunk.js.LICENSE.txt",
     "static/media/index.css": "./static/media/helvetica.0796970a.ttf",
     "static/media/CALL.fa5dcf83.svg": "./static/media/CALL.fa5dcf83.svg",
     "static/media/COLL.18017a76.svg": "./static/media/COLL.18017a76.svg",
@@ -33,9 +33,9 @@
     "static/media/termIcon.a6bf4fd7.svg": "./static/media/termIcon.a6bf4fd7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b082fb7.js",
-    "static/js/4.37e5eeb5.chunk.js",
+    "static/js/runtime-main.bb37488a.js",
+    "static/js/4.b9d6eebd.chunk.js",
     "static/css/main.3982dde6.chunk.css",
-    "static/js/main.a373a13e.chunk.js"
+    "static/js/main.357d8928.chunk.js"
   ]
 }
